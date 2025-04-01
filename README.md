@@ -1,4 +1,3 @@
-# Healthcare_Industry
 # 🏥 Healthcare Industry Projects
 
 ## 🔬 Diabetes Prediction Using Classification Models
