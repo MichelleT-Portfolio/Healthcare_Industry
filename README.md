@@ -96,7 +96,7 @@ Ensure you have the following installed:
 
 ---
 ## 📬 Contact
-If you have any questions or feedback, feel free to reach out via [LinkedIn](http://www.linkedin.com/in/michelle-tzeng-336a441a6) or email at michelletzengcontact@example.com.
+If you have any questions or feedback, feel free to reach out via [LinkedIn](http://www.linkedin.com/in/michelle-tzeng-336a441a6) or email at michelletzengcontact@gmail.com.
 
 ---
 ## 🤝 Contributions & Improvements
